@@ -15,7 +15,7 @@ client.on('ready', () => {
 });
 
 client.on('guildMemberAdd', async member => {
-    const channels = ["1138934964868612138","1138934996996980776"]
+    const channels = ["",""]
     for (const channel of channels) {
         const channell = client.channels.cache.get(channel)
         channell.send(`Welcome, <@${member.id}> !`).then(msg => setTimeout(() => msg.delete(), 1000));
