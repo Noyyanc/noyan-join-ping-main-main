@@ -3,7 +3,7 @@
 **
 **Bu bot (biri katıldıgında etiket atar reklam veren sunucular kullanması için yapılmıştır).**
 
-<h1>https://github.com/WexnC/noyan-join-ping-main</h1>
+<h1>https://github.com/noyyanc/noyan-join-ping-main</h1>
 
 # Installation
 - Kurulum Hakkında eğer bilginiz yoksa altta ki gibi yapın!
