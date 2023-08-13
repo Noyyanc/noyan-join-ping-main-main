@@ -1,5 +1,5 @@
 echo off
-title Noyan BOT
+title Noyyan BOT
 color c
 cls
 :a
